@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://raw.githubusercontent.com/mdmoniruzzamantanim/mdmoniruzzamantanim/main/assets/logo.svg](https://github-production-user-asset-6210df.s3.amazonaws.com/179929648/431969065-787c5eaa-de21-4310-aace-a34b94162996.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250409T180019Z&X-Amz-Expires=300&X-Amz-Signature=aca2450123293ddd992a6a63921fbdfbeb6c799c94fdb72efda75cf772cea08b&X-Amz-SignedHeaders=host)" alt="Tanim Logo" width="200" height="200"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/179929648/431969065-787c5eaa-de21-4310-aace-a34b94162996.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250409T180019Z&X-Amz-Expires=300&X-Amz-Signature=aca2450123293ddd992a6a63921fbdfbeb6c799c94fdb72efda75cf772cea08b&X-Amz-SignedHeaders=host" alt="Tanim Logo" width="200" height="200"/>
   
   # Md Moniruzzaman Tanim
 
@@ -148,6 +148,3 @@ Currently, I'm part of **Nordea**, where I contribute to the quality and innovat
   </blockquote>
   <p>Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi! 🙌</p>
 </div>
-
-<!-- Custom SVG Logo code would go here in a real README -->
-<!-- Since we can't create a real image file, I've provided placeholders for where logos would go -->
