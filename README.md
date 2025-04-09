@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/mdmoniruzzamantanim/mdmoniruzzamantanim/main/assets/logo.svg" alt="Tanim Logo" width="200" height="200"/>
   
   # Md Moniruzzaman Tanim
@@ -118,42 +118,6 @@ Currently, I'm part of **Nordea**, where I contribute to the quality and innovat
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-  
-  [![Robot Framework](https://github-readme-stats.vercel.app/api/pin/?username=mdmoniruzzamantanim&repo=Robot_Framework_Python&theme=react)](https://github.com/mdmoniruzzamantanim/Robot_Framework_Python)
-  [![Medical Tests](https://github-readme-stats.vercel.app/api/pin/?username=mdmoniruzzamantanim&repo=medical-test-automation&theme=react)](https://github.com/mdmoniruzzamantanim/medical-test-automation)
-  
-</div>
-
-<details>
-  <summary>View more projects...</summary>
-  <div align="center" style="margin-top: 20px;">
-    <a href="https://github.com/mdmoniruzzamantanim/nordic-banking-qa">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmoniruzzamantanim&repo=nordic-banking-qa&theme=react" alt="Nordic Banking QA" />
-    </a>
-    <a href="https://github.com/mdmoniruzzamantanim/mobile-test-framework">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdmoniruzzamantanim&repo=mobile-test-framework&theme=react" alt="Mobile Test Framework" />
-    </a>
-  </div>
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmoniruzzamantanim&show_icons=true&count_private=true&hide=issues&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmoniruzzamantanim&theme=react" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdmoniruzzamantanim&theme=nord&column=7&margin-w=15&margin-h=15" alt="trophy" />
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
@@ -186,4 +150,3 @@ Currently, I'm part of **Nordea**, where I contribute to the quality and innovat
 
 <!-- Custom SVG Logo code would go here in a real README -->
 <!-- Since we can't create a real image file, I've provided placeholders for where logos would go -->
-](https://leviarista.github.io/github-profile-header-generator/)
